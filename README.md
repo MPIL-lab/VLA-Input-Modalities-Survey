@@ -10,8 +10,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/arXiv-coming%20soon-b31b1b.svg?logo=arxiv" alt="arXiv coming soon">
   <a href="https://mpil-lab.github.io/lab-webpage/index.html"><img src="https://img.shields.io/badge/Lab-MPIL--Lab-blue.svg" alt="Lab: MPIL Lab"></a>
-  <img src="assets/huggingface-badge.svg" alt="Hugging Face coming soon">
-  <img src="https://img.shields.io/badge/License-MIT-black.svg" alt="License: MIT">
+  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-coming%20soon-FFD21E" alt="Hugging Face coming soon">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC%20BY%204.0-black.svg" alt="License: CC BY 4.0"></a>
 </p>
 
 This repository is being prepared as a public resource for tracking how VLA systems use different input modalities. The full paper list, taxonomy details, and supplementary materials are still being curated and checked for consistency.
