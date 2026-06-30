@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/arXiv-coming%20soon-b31b1b.svg?logo=arxiv" alt="arXiv coming soon">
   <a href="https://mpil-lab.github.io/lab-webpage/index.html"><img src="https://img.shields.io/badge/Lab-MPIL--Lab-blue.svg" alt="Lab: MPIL Lab"></a>
-  <img src="https://img.shields.io/badge/Hugging%20Face-coming%20soon-FFD21E.svg?logo=huggingface&logoColor=FFD21E" alt="Hugging Face coming soon">
+  <img src="assets/huggingface-badge.svg" alt="Hugging Face coming soon">
   <img src="https://img.shields.io/badge/License-MIT-black.svg" alt="License: MIT">
 </p>
 
