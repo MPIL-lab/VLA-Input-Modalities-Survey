@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="assets/title-icon.png" width="52" align="absmiddle" style="vertical-align: -0.4em;" alt="Project icon">
+  <img src="assets/title-icon.png" width="52" align="absmiddle" style="vertical-align: -0.2em;" alt="Project icon">
   Vision-Language-Action Models for Diverse Application Scenarios: A Survey of Input Modalities
 </h1>
 
