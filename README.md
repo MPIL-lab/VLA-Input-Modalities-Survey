@@ -53,19 +53,19 @@ Vision-Language-Action models increasingly rely on diverse input signals beyond 
 
 | Modality | Representative VLA Application Scenarios | Task-Relevant Information |
 | --- | --- | --- |
-| RGB Image | General object-centric manipulation and scene understanding | Object appearance, scene context, and visual state observations |
-| Video | Long-horizon, dynamic, or temporally dependent manipulation | Motion history, temporal context, and action-relevant dynamics |
-| Language | Instruction-conditioned manipulation and goal specification | Task goals, constraints, and semantic instructions |
-| Depth | Precision manipulation, obstacle avoidance, and spatial alignment | Metric distance, depth ordering, and image-aligned spatial structure |
-| Point Cloud | Complex 3D manipulation and pose-aware interaction | 3D geometry, object shape, and point-level spatial structure |
-| Tactile | Contact-rich manipulation, insertion, grasping, and slip handling | Local contact state, deformation, and tactile feedback |
-| Force | Force-aware contact manipulation and compliant control | Interaction force, torque, and contact intensity |
-| Audio | Sound-producing manipulation and interactive tasks | Contact sounds, speech cues, and intent-related acoustic signals |
-| Event Stream | Low-light, high-speed, or motion-blurred manipulation | Asynchronous motion cues and brightness-change events |
-| Thermal Image | Low-light, reflective, or temperature-sensitive operation | Heat distribution, material state, and non-visible environmental cues |
-| Gaze | Ambiguous or human-in-the-loop interaction | Human attention, target preference, and intent cues |
-| Brain Signal | Assistive control and human-guided intervention | Neural intention signals and intervention commands |
-| Radar | Occluded-object or hidden-state manipulation | Radar reflections, through-occlusion cues, and hidden-object responses |
+| 🖼️ RGB Image | General object-centric manipulation and scene understanding | Object appearance, scene context, and visual state observations |
+| 🎞️ Video | Long-horizon, dynamic, or temporally dependent manipulation | Motion history, temporal context, and action-relevant dynamics |
+| 💬 Language | Instruction-conditioned manipulation and goal specification | Task goals, constraints, and semantic instructions |
+| 📏 Depth | Precision manipulation, obstacle avoidance, and spatial alignment | Metric distance, depth ordering, and image-aligned spatial structure |
+| ☁️ Point Cloud | Complex 3D manipulation and pose-aware interaction | 3D geometry, object shape, and point-level spatial structure |
+| ✋ Tactile | Contact-rich manipulation, insertion, grasping, and slip handling | Local contact state, deformation, and tactile feedback |
+| 🧲 Force | Force-aware contact manipulation and compliant control | Interaction force, torque, and contact intensity |
+| 🔊 Audio | Sound-producing manipulation and interactive tasks | Contact sounds, speech cues, and intent-related acoustic signals |
+| ⚡ Event Stream | Low-light, high-speed, or motion-blurred manipulation | Asynchronous motion cues and brightness-change events |
+| 🌡️ Thermal Image | Low-light, reflective, or temperature-sensitive operation | Heat distribution, material state, and non-visible environmental cues |
+| 👁️ Gaze | Ambiguous or human-in-the-loop interaction | Human attention, target preference, and intent cues |
+| 🧠 Brain Signal | Assistive control and human-guided intervention | Neural intention signals and intervention commands |
+| 📡 Radar | Occluded-object or hidden-state manipulation | Radar reflections, through-occlusion cues, and hidden-object responses |
 
 ## Vision-Language Modalities in VLAs
 
