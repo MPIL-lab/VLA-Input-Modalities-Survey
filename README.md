@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/arXiv-coming%20soon-b31b1b.svg?logo=arxiv" alt="arXiv coming soon">
-  <img src="https://img.shields.io/badge/Lab-MPIL--Lab-blue.svg" alt="Lab: MPIL Lab">
+  <a href="https://mpil-lab.github.io/lab-webpage/index.html"><img src="https://img.shields.io/badge/Lab-MPIL--Lab-blue.svg" alt="Lab: MPIL Lab"></a>
   <img src="https://img.shields.io/badge/Contributions-welcome-black.svg?logo=github" alt="Contributions welcome">
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
 </p>
