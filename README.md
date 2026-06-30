@@ -14,7 +14,7 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC%20BY%204.0-black.svg" alt="License: CC BY 4.0"></a>
 </p>
 
-This repository accompanies our survey on input modalities for Vision-Language-Action (VLA) models. We are currently organizing the full paper list, taxonomy, and supplementary resources.
+🔥 This repository accompanies our survey on input modalities for Vision-Language-Action (VLA) models. We are currently organizing the full paper list, taxonomy, and supplementary resources.
 
 - We maintain a curated resource list for VLA input modalities across embodied agents, robotic manipulation, navigation, and related physical decision-making tasks.
 - The repository follows the paper structure: vision-language modalities, VLAs with a single additional modality, and VLAs with multiple additional modalities.
@@ -22,13 +22,13 @@ This repository accompanies our survey on input modalities for Vision-Language-A
 
 ## Table of Contents
 
-- [Overview](#overview)
-- [Input Modality Taxonomy](#input-modality-taxonomy)
-- [Vision-Language Modalities in VLAs](#vision-language-modalities-in-vlas)
+- [🤖 Overview](#overview)
+- [🔍 Input Modalities in VLAs](#input-modalities-in-vlas)
+- [ Vision-Language Modalities in VLAs](#vision-language-modalities-in-vlas)
   - [Language Modality](#language-modality)
   - [Vision Modality](#vision-modality)
   - [Vision-Language to Action Modeling](#vision-language-to-action-modeling)
-- [VLAs with Single Additional Modality](#vlas-with-single-additional-modality)
+- [ VLAs with Single Additional Modality](#vlas-with-single-additional-modality)
   - [Depth Modality](#depth-modality)
   - [Point Cloud Modality](#point-cloud-modality)
   - [Tactile Modality](#tactile-modality)
@@ -36,29 +36,36 @@ This repository accompanies our survey on input modalities for Vision-Language-A
   - [Audio Modality](#audio-modality)
   - [Gaze Modality](#gaze-modality)
   - [Other Emerging Modalities](#other-emerging-modalities)
-- [VLAs with Multiple Additional Modalities](#vlas-with-multiple-additional-modalities)
+- [ VLAs with Multiple Additional Modalities](#vlas-with-multiple-additional-modalities)
   - [Depth and Point Cloud Modalities (3D Geometry)](#depth-and-point-cloud-modalities-3d-geometry)
   - [Tactile and Force Modalities](#tactile-and-force-modalities)
   - [Other Multiple Additional Modalities](#other-multiple-additional-modalities)
-- [Acknowledgements](#acknowledgements)
-- [Citation](#citation)
-- [License](#license)
+- [🤝 Acknowledgements](#acknowledgements)
+- [📖 Citation](#citation)
+- [📄 License](#license)
 
 ## Overview
 
 Vision-Language-Action models increasingly rely on diverse input signals beyond standard RGB observations. This survey studies how different modalities contribute to perception, grounding, planning, control, and human-agent interaction in VLA systems.
 
 
-## Input Modality Taxonomy
+## Input Modalities in VLAs
 
-| Area | Modalities | Role in VLA systems |
+| Modality | Representative VLA Application Scenarios | Task-Relevant Information |
 | --- | --- | --- |
-| Visual observation | RGB image, video, event stream | Scene understanding, object localization, temporal dynamics |
-| Language instruction | Text prompt, goal description, dialogue | Task specification, human intent, constraints |
-| Geometry and state | Depth, point cloud, proprioception | Spatial layout, pose, contact-aware planning |
-| Contact-rich sensing | Tactile, force, torque | Manipulation feedback, slip/contact detection |
-| Audio and signal cues | Audio, radar, thermal | Non-visual context, hidden state, environment feedback |
-| Human-centric cues | Gaze, gesture, brain signal | Attention, intention, assistive interaction |
+| RGB Image | General object-centric manipulation and scene understanding | Object appearance, scene context, and visual state observations |
+| Video | Long-horizon, dynamic, or temporally dependent manipulation | Motion history, temporal context, and action-relevant dynamics |
+| Language | Instruction-conditioned manipulation and goal specification | Task goals, constraints, and semantic instructions |
+| Depth | Precision manipulation, obstacle avoidance, and spatial alignment | Metric distance, depth ordering, and image-aligned spatial structure |
+| Point Cloud | Complex 3D manipulation and pose-aware interaction | 3D geometry, object shape, and point-level spatial structure |
+| Tactile | Contact-rich manipulation, insertion, grasping, and slip handling | Local contact state, deformation, and tactile feedback |
+| Force | Force-aware contact manipulation and compliant control | Interaction force, torque, and contact intensity |
+| Audio | Sound-producing manipulation and interactive tasks | Contact sounds, speech cues, and intent-related acoustic signals |
+| Event Stream | Low-light, high-speed, or motion-blurred manipulation | Asynchronous motion cues and brightness-change events |
+| Thermal Image | Low-light, reflective, or temperature-sensitive operation | Heat distribution, material state, and non-visible environmental cues |
+| Gaze | Ambiguous or human-in-the-loop interaction | Human attention, target preference, and intent cues |
+| Brain Signal | Assistive control and human-guided intervention | Neural intention signals and intervention commands |
+| Radar | Occluded-object or hidden-state manipulation | Radar reflections, through-occlusion cues, and hidden-object responses |
 
 ## Vision-Language Modalities in VLAs
 
