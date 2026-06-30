@@ -14,51 +14,70 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC%20BY%204.0-black.svg" alt="License: CC BY 4.0"></a>
 </p>
 
-This repository is being prepared as a public resource for tracking how VLA systems use different input modalities. The full paper list, taxonomy details, and supplementary materials are still being curated and checked for consistency.
+This repository accompanies our survey on input modalities for Vision-Language-Action (VLA) models. We are currently organizing the full paper list, taxonomy, and supplementary resources.
 
-## Current Status
+- We maintain a curated resource list for VLA input modalities across embodied agents, robotic manipulation, navigation, and related physical decision-making tasks.
+- The repository follows the paper structure: vision-language modalities, VLAs with a single additional modality, and VLAs with multiple additional modalities.
+- If you find missing papers, incorrect metadata, broken links, or taxonomy issues, please open an issue or submit a pull request.
 
-We are currently organizing:
+## Table of Contents
 
-- the modality taxonomy;
-- representative papers and model families;
-- dataset and benchmark links;
-- compact figures for the project page;
-- contribution guidelines for future updates.
+- [Overview](#overview)
+- [Input Modality Taxonomy](#input-modality-taxonomy)
+- [Paper List](#paper-list)
+  - [Vision-Language Modalities in VLAs](#vision-language-modalities-in-vlas)
+  - [VLAs with Single Additional Modality](#vlas-with-single-additional-modality)
+  - [VLAs with Multiple Additional Modalities](#vlas-with-multiple-additional-modalities)
+- [Citation](#citation)
+- [License](#license)
 
-The initial release will focus on a clean, readable survey companion page before adding the full bibliography.
+## Overview
 
-## Scope
+Vision-Language-Action models increasingly rely on diverse input signals beyond standard RGB observations. This survey studies how different modalities contribute to perception, grounding, planning, control, and human-agent interaction in VLA systems.
 
-The repository focuses on input signals used by Vision-Language-Action models for embodied agents, robotic manipulation, navigation, and related physical decision-making tasks.
+The curated paper list and supplementary materials are coming soon.
+
+## Input Modality Taxonomy
 
 | Area | Modalities | Role in VLA systems |
 | --- | --- | --- |
-| 👁️ Visual observation | RGB image, video, event stream | Scene understanding, object localization, temporal dynamics |
-| 💬 Language instruction | Text prompt, goal description, dialogue | Task specification, human intent, constraints |
-| 📐 Geometry and state | Depth, point cloud, proprioception | Spatial layout, pose, contact-aware planning |
-| ✋ Contact-rich sensing | Tactile, force, torque | Manipulation feedback, slip/contact detection |
-| 📡 Audio and signal cues | Audio, radar, thermal | Non-visual context, hidden state, environment feedback |
-| 🧠 Human-centric cues | Gaze, gesture, brain signal | Attention, intention, assistive interaction |
+| Visual observation | RGB image, video, event stream | Scene understanding, object localization, temporal dynamics |
+| Language instruction | Text prompt, goal description, dialogue | Task specification, human intent, constraints |
+| Geometry and state | Depth, point cloud, proprioception | Spatial layout, pose, contact-aware planning |
+| Contact-rich sensing | Tactile, force, torque | Manipulation feedback, slip/contact detection |
+| Audio and signal cues | Audio, radar, thermal | Non-visual context, hidden state, environment feedback |
+| Human-centric cues | Gaze, gesture, brain signal | Attention, intention, assistive interaction |
 
-## Resource Roadmap
+## Paper List
 
-| Resource | Status | Notes |
-| --- | --- | --- |
-| Survey paper | Coming soon | Preprint link will be added after release. |
-| Paper list | In progress | We are checking categories, metadata, and citation consistency. |
-| Modality taxonomy | In progress | The first version will prioritize clarity over exhaustive coverage. |
-| Figures | In progress | Compact diagrams and modality icons will be added here. |
-| Citation | Coming soon | BibTeX will be added with the public preprint. |
+The paper list is being curated and will be organized following the structure of the survey.
 
-## Contribution
+### Vision-Language Modalities in VLAs
 
-If you find missing papers, incorrect metadata, broken links, or taxonomy issues, please feel free to submit a pull request. Issues and suggestions for related surveys, datasets, and benchmarks are also welcome.
+- Language modality: coming soon.
+- Vision modality: coming soon.
+- From vision-language inputs to action generation: coming soon.
+
+### VLAs with Single Additional Modality
+
+- Depth modality: coming soon.
+- Point cloud modality: coming soon.
+- Tactile modality: coming soon.
+- Force modality: coming soon.
+- Audio modality: coming soon.
+- Gaze modality: coming soon.
+- Other emerging modalities: coming soon.
+
+### VLAs with Multiple Additional Modalities
+
+- Depth and point cloud modalities: coming soon.
+- Tactile and force modalities: coming soon.
+- Other multiple additional modalities: coming soon.
 
 ## Citation
 
 The citation entry will be added after the preprint is publicly available.
 
-## Maintainers
+## License
 
-Maintained by the MPIL Lab.
+This repository is released under the [Creative Commons Attribution 4.0 International License](LICENSE).
