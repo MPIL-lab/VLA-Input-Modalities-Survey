@@ -14,7 +14,7 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC%20BY%204.0-black.svg" alt="License: CC BY 4.0"></a>
 </p>
 
-🔥 This repository accompanies our survey on input modalities for Vision-Language-Action (VLA) models. We are currently organizing the full paper list, taxonomy, and supplementary resources.
+🔥 This repository accompanies our survey on **input modalities for Vision-Language-Action (VLA) models**. We are currently organizing the full paper list, taxonomy, and supplementary resources.
 
 - We maintain a curated resource list for VLA input modalities across embodied agents, robotic manipulation, navigation, and related physical decision-making tasks.
 - The repository follows the paper structure: vision-language modalities, VLAs with a single additional modality, and VLAs with multiple additional modalities.
@@ -46,7 +46,7 @@
 
 ## Overview
 
-Vision-Language-Action models increasingly rely on diverse input signals beyond standard RGB observations. This survey studies how different modalities contribute to perception, grounding, planning, control, and human-agent interaction in VLA systems.
+As VLAs are increasingly applied across diverse real-world scenarios, **standard visual observations and language instructions** alone are often insufficient for reliable task execution. Recent studies therefore extend VLAs with **additional input modalities** to provide task-relevant physical, spatial, and interaction cues. This repository organizes and curates these VLA works as a companion resource to our survey.
 
 
 ## Input Modalities in VLAs
@@ -69,12 +69,9 @@ Vision-Language-Action models increasingly rely on diverse input signals beyond 
 
 ## Vision-Language Modalities in VLAs
 
-This section covers VLA methods that keep the standard vision-language input interface while focusing on how the two modalities are specified, represented, fused, and converted into actions.
+This section organizes VLAs that use the original vision-language modalities, grouping them into methods that focus on the language modality, the visual modality, and vision-language fusion, architecture, or other mechanisms.
 
 ### Language Modality
-
-> These works use the canonical vision-language input interface and focus on how language specifies tasks, goals, reasoning contexts, and instruction variants for VLA policies.
-
 - **LIBERO-Para** - *LIBERO-Para: A Diagnostic Benchmark and Metrics for Paraphrase Robustness in VLA Models*  
   [![arXiv](https://img.shields.io/badge/arXiv-2603.28301-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2603.28301)
 
@@ -131,9 +128,6 @@ This section covers VLA methods that keep the standard vision-language input int
 
 
 ### Vision Modality
-
-> These works also remain within the vision-language input setting, but focus on the visual side: viewpoints, temporal context, object-centric cues, pixel-level grounding, and visual prompting.
-
 - **Sentinel-VLA** - *Sentinel-VLA: A Metacognitive VLA Model with Active Status Monitoring for Dynamic Reasoning and Error Recovery*  
   [![arXiv](https://img.shields.io/badge/arXiv-2605.01191-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2605.01191)
 
@@ -241,9 +235,6 @@ This section covers VLA methods that keep the standard vision-language input int
 
 
 ### Vision-Language to Action Modeling
-
-> These works use vision-language inputs while focusing on architecture and action modeling, including action tokenization, diffusion/flow action heads, reinforcement learning, robustness, and efficient inference.
-
 - **STRONG-VLA** - *STRONG-VLA: Decoupled Robustness Learning for Vision-Language-Action Models under Multimodal Perturbations*  
   [![arXiv](https://img.shields.io/badge/arXiv-2604.10055-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2604.10055)
 
@@ -292,12 +283,9 @@ This section covers VLA methods that keep the standard vision-language input int
 
 ## VLAs with Single Additional Modality
 
-This section covers VLA methods that add one extra input channel to address scenario-specific information needs beyond RGB observations and language instructions.
+This section organizes VLAs with a single additional input modality, including **[Depth](#depth-modality)**, **[Point Cloud](#point-cloud-modality)**, **[Tactile](#tactile-modality)**, **[Force](#force-modality)**, **[Audio](#audio-modality)**, **[Gaze](#gaze-modality)**, and **[Other emerging modalities](#other-emerging-modalities)**.
 
 ### Depth Modality
-
-> Depth mainly provides metric distance and image-aligned spatial-layout cues for localization, obstacle awareness, and action constraints.
-
 - **SOMA** - *Spatial Memory for Out-of-Vision Manipulation in Vision-Language-Action*  
   [![arXiv](https://img.shields.io/badge/arXiv-2605.22283-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2605.22283)
 
@@ -336,9 +324,6 @@ This section covers VLA methods that add one extra input channel to address scen
 
 
 ### Point Cloud Modality
-
-> Point clouds provide explicit 3D spatial structure beyond image-plane observations, supporting object shape, reachability, and workspace-aware action reasoning.
-
 - **PointACT** - *PointACT: Vision-Language-Action Models with Multi-Scale Point-Action Interaction*  
   [![arXiv](https://img.shields.io/badge/arXiv-2605.21414-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2605.21414) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://cshizhe.github.io/projects/pointact.html)
 
@@ -368,9 +353,6 @@ This section covers VLA methods that add one extra input channel to address scen
 
 
 ### Tactile Modality
-
-> Tactile inputs provide local contact observations such as deformation, slip, and contact state, making them useful for insertion, grasping, and other contact-rich manipulation tasks.
-
 - **T-Rex** - *T-Rex: Tactile-Reactive Dexterous Manipulation*  
   [![arXiv](https://img.shields.io/badge/arXiv-2606.17055-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2606.17055) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://tactile-rex.github.io/)
 
@@ -406,9 +388,6 @@ This section covers VLA methods that add one extra input channel to address scen
 
 
 ### Force Modality
-
-> Force-aware VLAs use force or torque feedback to model interaction intensity and support hybrid force-position control, gentle manipulation, and contact correction.
-
 - **ForceVLA2** - *ForceVLA2: Unleashing Hybrid Force-Position Control with Force Awareness for Contact-Rich Manipulation*  
   [![arXiv](https://img.shields.io/badge/arXiv-2603.15169-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2603.15169) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://sites.google.com/view/force-vla2/home)
 
@@ -432,9 +411,6 @@ This section covers VLA methods that add one extra input channel to address scen
 
 
 ### Audio Modality
-
-> Audio expands the VLA interface with speech instructions, contact sounds, and environmental acoustic cues that may be unavailable from vision alone.
-
 - **HEAR** - *Towards the Vision-Sound-Language-Action Paradigm: The HEAR Framework for Sound-Centric Manipulation*  
   [![arXiv](https://img.shields.io/badge/arXiv-2603.16086-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2603.16086)
 
@@ -464,9 +440,6 @@ This section covers VLA methods that add one extra input channel to address scen
 
 
 ### Gaze Modality
-
-> Gaze-conditioned VLAs use human attention as an intent cue, helping robots infer targets, preferences, or interaction focus in human-centered manipulation.
-
 - **Gaze2Act** - *Gaze2Act: Gaze-Conditioned Vision-Language-Action Policies for Interactive Robot Manipulation*  
   [![arXiv](https://img.shields.io/badge/arXiv-2605.30282-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2605.30282) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://zuo-kuangji.github.io/Gaze2Act/)
 
@@ -481,9 +454,6 @@ This section covers VLA methods that add one extra input channel to address scen
 
 
 ### Other Emerging Modalities
-
-> This section collects newer input channels such as gesture, thermal, event, and other specialized signals that expand VLA perception beyond standard vision-language inputs.
-
 - **GIVE** - *GIVE: Grounding Human Gestures in Vision-Language-Action Models*  
   [![arXiv](https://img.shields.io/badge/arXiv-2606.13435-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2606.13435) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://luis-cloud-sg.github.io/GIVE-project/)
 
@@ -508,12 +478,9 @@ This section covers VLA methods that add one extra input channel to address scen
 
 ## VLAs with Multiple Additional Modalities
 
-This section covers VLA methods that combine multiple additional modalities for tasks where geometry, contact, and environmental signals jointly affect action generation.
+This section organizes VLAs with multiple additional input modalities, including **[Depth and Point Cloud modalities (3D geometry)](#depth-and-point-cloud-modalities-3d-geometry)**, **[Tactile and Force modalities](#tactile-and-force-modalities)**, and **[Other multiple additional modalities](#other-multiple-additional-modalities)**.
 
 ### Depth and Point Cloud Modalities (3D Geometry)
-
-> This 3D geometry branch combines depth cues and point-level structure, moving from distance estimation toward action-relevant spatial modeling.
-
 - **GEAR-VLA** - *GEAR-VLA: Learning Geometry-Aware Action Representations for Generalizable Robotic Manipulation*  
   [![arXiv](https://img.shields.io/badge/arXiv-2606.08530-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2606.08530)
 
@@ -546,9 +513,6 @@ This section covers VLA methods that combine multiple additional modalities for 
 
 
 ### Tactile and Force Modalities
-
-> These methods combine local touch and mechanical feedback, allowing VLAs to perceive contact state while regulating interaction force during execution.
-
 - **TORL-VLA** - *TORL-VLA: Tactile Guided Online Reinforcement Learning for Contact-Rich Manipulation*  
   [![arXiv](https://img.shields.io/badge/arXiv-2606.09337-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2606.09337) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://torl-vla.github.io/)
 
@@ -572,9 +536,6 @@ This section covers VLA methods that combine multiple additional modalities for 
 
 
 ### Other Multiple Additional Modalities
-
-> These works explore task-specific multisensory mixtures where several physical signals are needed to handle complex or long-tail scenarios.
-
 - **OmniVLA** - *OmniVLA: Physically-Grounded Multimodal VLA with Unified Multi-Sensor Perception for Robotic Manipulation*  
   [![arXiv](https://img.shields.io/badge/arXiv-2511.01210-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2511.01210)
 
@@ -590,12 +551,12 @@ This section covers VLA methods that combine multiple additional modalities for 
 
 ## Acknowledgements
 
-> This repository is inspired by the open curation style of community survey repositories, including [Awesome World Models for Robotic Policy Learning](https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy) and [Large VLM-based VLA for Robotic Manipulation](https://github.com/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation). We thank their maintainers for making these resources public.
+This repository is inspired by the open curation style of community survey repositories, including [Awesome World Models for Robotic Policy Learning](https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy) and [Large VLM-based VLA for Robotic Manipulation](https://github.com/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation). We thank their maintainers for making these resources public!  🤝 
 
 ## Citation
 
-> The citation entry will be added after the preprint is publicly available.
+ Coming soon
 
 ## License
 
-> This repository is released under the [Creative Commons Attribution 4.0 International License](LICENSE).
+ This repository is released under the [Creative Commons Attribution 4.0 International License](LICENSE).
