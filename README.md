@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="assets/title-icon.png" width="52" align="absmiddle" alt="Project icon">
+  <img src="assets/title-icon.png" width="52" align="absmiddle" style="vertical-align: 0.18em;" alt="Project icon">
   Vision-Language-Action Models for Diverse Application Scenarios: A Survey of Input Modalities
 </h1>
 
@@ -10,8 +10,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/arXiv-coming%20soon-b31b1b.svg?logo=arxiv" alt="arXiv coming soon">
   <a href="https://mpil-lab.github.io/lab-webpage/index.html"><img src="https://img.shields.io/badge/Lab-MPIL--Lab-blue.svg" alt="Lab: MPIL Lab"></a>
-  <img src="https://img.shields.io/badge/Contributions-welcome-black.svg?logo=github" alt="Contributions welcome">
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
+  <img src="https://img.shields.io/badge/HuggingFace-coming%20soon-ffcc4d.svg?logo=huggingface&logoColor=black" alt="Hugging Face coming soon">
+  <img src="https://img.shields.io/badge/License-MIT-black.svg" alt="License: MIT">
 </p>
 
 This repository is being prepared as a public resource for tracking how VLA systems use different input modalities. The full paper list, taxonomy details, and supplementary materials are still being curated and checked for consistency.
