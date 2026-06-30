@@ -78,7 +78,7 @@ This section covers VLA methods that keep the standard vision-language input int
   [![arXiv](https://img.shields.io/badge/arXiv-2603.00592-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2603.00592)
 
 - **CAG** - *When Vision Overrides Language: Evaluating and Mitigating Counterfactual Failures in VLAs*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2602.17659-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2602.17659) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://vla-va.github.io/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2602.17659-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2602.17659) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://vla-va.github.io/)
 
 - **LangForce** - *LangForce: Bayesian Decomposition of Vision Language Action Models via Latent Action Queries*  
   [![arXiv](https://img.shields.io/badge/arXiv-2601.15197-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2601.15197)
@@ -87,16 +87,16 @@ This section covers VLA methods that keep the standard vision-language input int
   [![arXiv](https://img.shields.io/badge/arXiv-2601.04052-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2601.04052)
 
 - **BayesVLA** - *Seeing to Act, Prompting to Specify: A Bayesian Factorization of Vision Language Action Policy*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2512.11218-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2512.11218) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://xukechun.github.io/papers/BayesVLA)
+  [![arXiv](https://img.shields.io/badge/arXiv-2512.11218-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2512.11218) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://xukechun.github.io/papers/BayesVLA)
 
 - **MG-Select** - *Verifier-free Test-Time Sampling for Vision Language Action Models*  
   [![arXiv](https://img.shields.io/badge/arXiv-2510.05681-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2510.05681)
 
 - **VLA-Reasoner** - *VLA-Reasoner: Empowering Vision-Language-Action Models with Reasoning via Online Monte Carlo Tree Search*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2509.22643-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2509.22643) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://vla-reasoner.github.io/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2509.22643-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2509.22643) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://vla-reasoner.github.io/)
 
 - **RICL** - *RICL: Adding In-Context Adaptability to Pre-Trained Vision-Language-Action Models*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2508.02062-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2508.02062) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://ricl-vla.github.io)
+  [![arXiv](https://img.shields.io/badge/arXiv-2508.02062-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2508.02062) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://ricl-vla.github.io)
 
 - **InstructVLA** - *InstructVLA: Vision-Language-Action Instruction Tuning from Understanding to Manipulation*  
   [![arXiv](https://img.shields.io/badge/arXiv-2507.17520-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2507.17520)
@@ -105,22 +105,22 @@ This section covers VLA methods that keep the standard vision-language input int
   [![arXiv](https://img.shields.io/badge/arXiv-2506.17811-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2506.17811)
 
 - **FSD** - *From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2505.08548-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2505.08548) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://embodied-fsd.github.io/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2505.08548-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2505.08548) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://embodied-fsd.github.io/)
 
 - **CoA-VLA** - *CoA-VLA: Improving Vision-Language-Action Models via Visual-Textual Chain-of-Affordance*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2412.20451-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2412.20451) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://chain-of-affordance.github.io)
+  [![arXiv](https://img.shields.io/badge/arXiv-2412.20451-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2412.20451) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://chain-of-affordance.github.io)
 
 - **ECoT** - *Robotic Control via Embodied Chain-of-Thought Reasoning*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2407.08693-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2407.08693) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://embodied-cot.github.io)
+  [![arXiv](https://img.shields.io/badge/arXiv-2407.08693-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2407.08693) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://embodied-cot.github.io)
 
 - **RT-2** - *RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2307.15818-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2307.15818) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://robotics-transformer.github.io/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2307.15818-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2307.15818) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://robotics-transformer.github.io/)
 
 - **PaLM-E** - *PaLM-E: An Embodied Multimodal Language Model*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2303.03378-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2303.03378) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://palm-e.github.io/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2303.03378-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2303.03378) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://palm-e.github.io/)
 
 - **SayCan** - *Do As I Can, Not As I Say: Grounding Language in Robotic Affordances*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2204.01691-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2204.01691) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://say-can.github.io/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2204.01691-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2204.01691) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://say-can.github.io/)
 
 
 ### Vision Modality
@@ -131,13 +131,13 @@ This section covers VLA methods that keep the standard vision-language input int
   [![arXiv](https://img.shields.io/badge/arXiv-2605.01191-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2605.01191)
 
 - **VP-VLA** - *VP-VLA: Visual Prompting as an Interface for Vision-Language-Action Models*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2603.22003-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2603.22003) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://visualprompt-vla.github.io/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2603.22003-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2603.22003) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://visualprompt-vla.github.io/)
 
 - **ReMem-VLA** - *ReMem-VLA: Empowering Vision-Language-Action Model with Memory via Dual-Level Recurrent Queries*  
   [![arXiv](https://img.shields.io/badge/arXiv-2603.12942-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2603.12942)
 
 - **AnyCamVLA** - *AnyCamVLA: Zero-Shot Camera Adaptation for Viewpoint Robust Vision-Language-Action Models*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2603.05868-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2603.05868) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://heo0224.github.io/AnyCamVLA/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2603.05868-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2603.05868) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://heo0224.github.io/AnyCamVLA/)
 
 - **JALA** - *Joint-Aligned Latent Action: Towards Scalable VLA Pretraining in the Wild*  
   [![arXiv](https://img.shields.io/badge/arXiv-2602.21736-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2602.21736)
@@ -161,34 +161,34 @@ This section covers VLA methods that keep the standard vision-language input int
   [![arXiv](https://img.shields.io/badge/arXiv-2512.18933-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2512.18933)
 
 - **VideoVLA** - *VideoVLA: Video Generators Can Be Generalizable Robot Manipulators*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2512.06963-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2512.06963) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://videovla-nips2025.github.io)
+  [![arXiv](https://img.shields.io/badge/arXiv-2512.06963-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2512.06963) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://videovla-nips2025.github.io)
 
 - **PixelVLA** - *PixelVLA: Advancing Pixel-level Understanding in Vision-Language-Action Model*  
   [![arXiv](https://img.shields.io/badge/arXiv-2511.01571-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2511.01571)
 
 - **ContextVLA** - *ContextVLA: Vision-Language-Action Model with Amortized Multi-Frame Context*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2510.04246-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2510.04246) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://huiwon-jang.github.io/contextvla)
+  [![arXiv](https://img.shields.io/badge/arXiv-2510.04246-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2510.04246) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://huiwon-jang.github.io/contextvla)
 
 - **RS-CL** - *Contrastive Representation Regularization for Vision-Language-Action Models*  
   [![arXiv](https://img.shields.io/badge/arXiv-2510.01711-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2510.01711)
 
 - **HAMLET** - *HAMLET: Switch your Vision-Language-Action Model into a History-Aware Policy*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2510.00695-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2510.00695) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://myungkyukoo.github.io/hamlet/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2510.00695-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2510.00695) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://myungkyukoo.github.io/hamlet/)
 
 - **VLA-LPAF** - *VLA-LPAF: Lightweight Perspective-Adaptive Fusion for Vision-Language-Action to Enable More Unconstrained Robotic Manipulation*  
   [![arXiv](https://img.shields.io/badge/arXiv-2509.18183-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2509.18183)
 
 - **FlowVLA** - *FlowVLA: Visual Chain of Thought-based Motion Reasoning for Vision-Language-Action Models*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2508.18269-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2508.18269) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://irpn-lab.github.io/FlowVLA/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2508.18269-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2508.18269) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://irpn-lab.github.io/FlowVLA/)
 
 - **OC-VLA** - *Grounding Actions in Camera Space: Observation-Centric Vision-Language-Action Policy*  
   [![arXiv](https://img.shields.io/badge/arXiv-2508.13103-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2508.13103)
 
 - **ReconVLA** - *ReconVLA: Reconstructive Vision-Language-Action Model as Effective Robot Perceiver*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2508.10333-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2508.10333) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://zionchow.github.io/ReconVLA/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2508.10333-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2508.10333) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://zionchow.github.io/ReconVLA/)
 
 - **EgoVLA** - *EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2507.12440-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2507.12440) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://rchalyang.github.io/EgoVLA)
+  [![arXiv](https://img.shields.io/badge/arXiv-2507.12440-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2507.12440) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://rchalyang.github.io/EgoVLA)
 
 - **CrayonRobo** - *CrayonRobo: Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation*  
   [![arXiv](https://img.shields.io/badge/arXiv-2505.02166-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2505.02166)
@@ -206,31 +206,31 @@ This section covers VLA methods that keep the standard vision-language input int
   [![arXiv](https://img.shields.io/badge/arXiv-2412.10345-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2412.10345)
 
 - **Moto** - *Moto: Latent Motion Token as the Bridging Language for Learning Robot Manipulation from Videos*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2412.04445-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2412.04445) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://chenyi99.github.io/moto/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2412.04445-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2412.04445) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://chenyi99.github.io/moto/)
 
 - **GR-2** - *GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2410.06158-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2410.06158) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://gr2-manipulation.github.io)
+  [![arXiv](https://img.shields.io/badge/arXiv-2410.06158-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2410.06158) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://gr2-manipulation.github.io)
 
 - **GR-MG** - *GR-MG: Leveraging Partially Annotated Data via Multi-Modal Goal-Conditioned Policy*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2408.14368-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2408.14368) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://gr-mg.github.io/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2408.14368-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2408.14368) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://gr-mg.github.io/)
 
 - **Octo** - *Octo: An Open-Source Generalist Robot Policy*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2405.12213-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2405.12213) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://octo-models.github.io)
+  [![arXiv](https://img.shields.io/badge/arXiv-2405.12213-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2405.12213) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://octo-models.github.io)
 
 - **GR-1** - *Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2312.13139-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2312.13139) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://GR1-Manipulation.github.io)
+  [![arXiv](https://img.shields.io/badge/arXiv-2312.13139-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2312.13139) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://GR1-Manipulation.github.io)
 
 - **RT-Trajectory** - *RT-Trajectory: Robotic Task Generalization via Hindsight Trajectory Sketches*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2311.01977-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2311.01977) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://rt-trajectory.github.io/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2311.01977-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2311.01977) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://rt-trajectory.github.io/)
 
 - **RoboFlamingo** - *Vision-Language Foundation Models as Effective Robot Imitators*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2311.01378-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2311.01378) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://roboflamingo.github.io)
+  [![arXiv](https://img.shields.io/badge/arXiv-2311.01378-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2311.01378) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://roboflamingo.github.io)
 
 - **SuSIE** - *Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2310.10639-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2310.10639) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](http://rail-berkeley.github.io/susie)
+  [![arXiv](https://img.shields.io/badge/arXiv-2310.10639-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2310.10639) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](http://rail-berkeley.github.io/susie)
 
 - **RT-1** - *RT-1: Robotics Transformer for Real-World Control at Scale*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2212.06817-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2212.06817) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://robotics-transformer1.github.io/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2212.06817-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2212.06817) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://robotics-transformer1.github.io/)
 
 
 ### Vision-Language to Action Modeling
@@ -259,28 +259,28 @@ This section covers VLA methods that keep the standard vision-language input int
   [![arXiv](https://img.shields.io/badge/arXiv-2509.09674-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2509.09674)
 
 - **RIPT-VLA** - *Interactive Post-Training for Vision-Language-Action Models*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2505.17016-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2505.17016) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://ariostgx.github.io/ript_vla/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2505.17016-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2505.17016) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://ariostgx.github.io/ript_vla/)
 
 - **GR00T N1** - *GR00T N1: An Open Foundation Model for Generalist Humanoid Robots*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2503.14734-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2503.14734) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://developer.nvidia.com/isaac/gr00t)
+  [![arXiv](https://img.shields.io/badge/arXiv-2503.14734-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2503.14734) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://developer.nvidia.com/isaac/gr00t)
 
 - **HybridVLA** - *HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model*  
   [![arXiv](https://img.shields.io/badge/arXiv-2503.10631-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2503.10631)
 
 - **OTTER** - *OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2503.03734-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2503.03734) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://ottervla.github.io/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2503.03734-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2503.03734) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://ottervla.github.io/)
 
 - **VLA-Cache** - *VLA-Cache: Efficient Vision-Language-Action Manipulation via Adaptive Token Caching*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2502.02175-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2502.02175) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://vla-cache.github.io)
+  [![arXiv](https://img.shields.io/badge/arXiv-2502.02175-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2502.02175) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://vla-cache.github.io)
 
 - **iRe-VLA** - *Improving Vision-Language-Action Model with Online Reinforcement Learning*  
   [![arXiv](https://img.shields.io/badge/arXiv-2501.16664-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2501.16664)
 
 - **pi_0** - *$\pi_0$: A Vision-Language-Action Flow Model for General Robot Control*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2410.24164-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2410.24164) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://physicalintelligence.company/blog/pi0)
+  [![arXiv](https://img.shields.io/badge/arXiv-2410.24164-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2410.24164) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://physicalintelligence.company/blog/pi0)
 
 - **OpenVLA** - *OpenVLA: An Open-Source Vision-Language-Action Model*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2406.09246-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2406.09246) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://openvla.github.io/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2406.09246-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2406.09246) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://openvla.github.io/)
 
 
 ## VLAs with Single Additional Modality
@@ -301,13 +301,13 @@ This section covers VLA methods that add one extra input channel to address scen
   [![arXiv](https://img.shields.io/badge/arXiv-2603.09079-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2603.09079)
 
 - **UniLACT** - *UniLACT: Depth-Aware RGB Latent Action Learning for Vision-Language-Action Models*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2602.20231-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2602.20231) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://manishgovind.github.io/unilact-vla/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2602.20231-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2602.20231) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://manishgovind.github.io/unilact-vla/)
 
 - **AutoFly** - *AutoFly: Vision-Language-Action Model for UAV Autonomous Navigation in the Wild*  
   [![arXiv](https://img.shields.io/badge/arXiv-2602.09657-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2602.09657)
 
 - **PEAfowl** - *PEAfowl: Perception-Enhanced Multi-View Vision-Language-Action for Bimanual Manipulation*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2601.17885-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2601.17885) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://peafowlvla.github.io/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2601.17885-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2601.17885) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://peafowlvla.github.io/)
 
 - **ActiveVLA** - *ActiveVLA: Injecting Active Perception into Vision-Language-Action Models for Precise 3D Robotic Manipulation*  
   [![arXiv](https://img.shields.io/badge/arXiv-2601.08325-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2601.08325)
@@ -319,13 +319,13 @@ This section covers VLA methods that add one extra input channel to address scen
   [![arXiv](https://img.shields.io/badge/arXiv-2512.13080-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2512.13080)
 
 - **FALCON** - *From Spatial to Actions: Grounding Vision-Language-Action Model in Spatial Foundation Priors*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2510.17439-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2510.17439) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://falcon-vla.github.io/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2510.17439-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2510.17439) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://falcon-vla.github.io/)
 
 - **DepthVLA** - *DepthVLA: Enhancing Vision-Language-Action Models with Depth-Aware Spatial Reasoning*  
   [![arXiv](https://img.shields.io/badge/arXiv-2510.13375-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2510.13375)
 
 - **Spatial Forcing** - *Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2510.12276-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2510.12276) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://spatial-forcing.github.io/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2510.12276-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2510.12276) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://spatial-forcing.github.io/)
 
 
 ### Point Cloud Modality
@@ -333,25 +333,25 @@ This section covers VLA methods that add one extra input channel to address scen
 > Point clouds provide explicit 3D spatial structure beyond image-plane observations, supporting object shape, reachability, and workspace-aware action reasoning.
 
 - **PointACT** - *PointACT: Vision-Language-Action Models with Multi-Scale Point-Action Interaction*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2605.21414-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2605.21414) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://cshizhe.github.io/projects/pointact.html)
+  [![arXiv](https://img.shields.io/badge/arXiv-2605.21414-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2605.21414) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://cshizhe.github.io/projects/pointact.html)
 
 - **LaMP** - *LaMP: Learning Vision-Language-Action Policies with 3D Scene Flow as Latent Motion Prior*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2603.25399-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2603.25399) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://summerwxk.github.io/lamp-project-page/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2603.25399-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2603.25399) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://summerwxk.github.io/lamp-project-page/)
 
 - **UniDex** - *UniDex: A Robot Foundation Suite for Universal Dexterous Hand Control from Egocentric Human Videos*  
   [![arXiv](https://img.shields.io/badge/arXiv-2603.22264-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2603.22264)
 
 - **Avi** - *Avi: Action from Volumetric Inference*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2510.21746-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2510.21746) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://avi-3drobot.github.io/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2510.21746-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2510.21746) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://avi-3drobot.github.io/)
 
 - **GeoVLA** - *GeoVLA: Empowering 3D Representations in Vision-Language-Action Models*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2508.09071-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2508.09071) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://linsun449.github.io/GeoVLA/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2508.09071-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2508.09071) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://linsun449.github.io/GeoVLA/)
 
 - **BridgeVLA** - *BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2506.07961-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2506.07961) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://bridgevla.github.io/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2506.07961-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2506.07961) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://bridgevla.github.io/)
 
 - **OG-VLA** - *OG-VLA: Orthographic Image Generation for 3D-Aware Vision-Language Action Model*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2506.01196-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2506.01196) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://og-vla.github.io/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2506.01196-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2506.01196) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://og-vla.github.io/)
 
 - **PointVLA** - *PointVLA: Injecting the 3D World into Vision-Language-Action Models*  
   [![arXiv](https://img.shields.io/badge/arXiv-2503.07511-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2503.07511)
@@ -365,19 +365,19 @@ This section covers VLA methods that add one extra input channel to address scen
 > Tactile inputs provide local contact observations such as deformation, slip, and contact state, making them useful for insertion, grasping, and other contact-rich manipulation tasks.
 
 - **T-Rex** - *T-Rex: Tactile-Reactive Dexterous Manipulation*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2606.17055-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2606.17055) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://tactile-rex.github.io/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2606.17055-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2606.17055) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://tactile-rex.github.io/)
 
 - **TacCoRL** - *TacCoRL: Integrating Tactile Feedback into VLA via Simulation*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2606.11743-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2606.11743) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://tac-corl.github.io/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2606.11743-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2606.11743) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://tac-corl.github.io/)
 
 - **AT-VLA** - *AT-VLA: Adaptive Tactile Injection for Enhanced Feedback Reaction in Vision-Language-Action Models*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2605.07308-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2605.07308) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://sites.google.com/view/at-vla)
+  [![arXiv](https://img.shields.io/badge/arXiv-2605.07308-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2605.07308) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://sites.google.com/view/at-vla)
 
 - **TacFiLM** - *Tactile Modality Fusion for Vision-Language-Action Models*  
   [![arXiv](https://img.shields.io/badge/arXiv-2603.14604-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2603.14604)
 
 - **TacVLA** - *TacVLA: Contact-Aware Tactile Fusion for Robust Vision-Language-Action Manipulation*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2603.12665-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2603.12665) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://sites.google.com/view/tacvla)
+  [![arXiv](https://img.shields.io/badge/arXiv-2603.12665-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2603.12665) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://sites.google.com/view/tacvla)
 
 - **FG-CLTP** - *FG-CLTP: Fine-Grained Contrastive Language Tactile Pretraining for Robotic Manipulation*  
   [![arXiv](https://img.shields.io/badge/arXiv-2603.10871-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2603.10871)
@@ -389,10 +389,10 @@ This section covers VLA methods that add one extra input channel to address scen
   [![arXiv](https://img.shields.io/badge/arXiv-2507.17294-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2507.17294)
 
 - **VTLA** - *VTLA: Vision-Tactile-Language-Action Model with Preference Learning for Insertion Manipulation*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2505.09577-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2505.09577) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://sites.google.com/view/vtla)
+  [![arXiv](https://img.shields.io/badge/arXiv-2505.09577-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2505.09577) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://sites.google.com/view/vtla)
 
 - **TLA** - *TLA: Tactile-Language-Action Model for Contact-Rich Manipulation*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2503.08548-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2503.08548) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://sites.google.com/view/tactile-language-action/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2503.08548-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2503.08548) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://sites.google.com/view/tactile-language-action/)
 
 - **BiTLA** - *BiTLA: A Bimanual Tactile-Language-Action Model for Contact-Rich Robotic Manipulation*  
   [![DOI](https://img.shields.io/badge/DOI-10.1145%2F3728485.3759237-007ec6.svg)](https://doi.org/10.1145/3728485.3759237)
@@ -403,7 +403,7 @@ This section covers VLA methods that add one extra input channel to address scen
 > Force-aware VLAs use force or torque feedback to model interaction intensity and support hybrid force-position control, gentle manipulation, and contact correction.
 
 - **ForceVLA2** - *ForceVLA2: Unleashing Hybrid Force-Position Control with Force Awareness for Contact-Rich Manipulation*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2603.15169-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2603.15169) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://sites.google.com/view/force-vla2/home)
+  [![arXiv](https://img.shields.io/badge/arXiv-2603.15169-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2603.15169) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://sites.google.com/view/force-vla2/home)
 
 - **FAVLA** - *FAVLA: A Force-Adaptive Fast-Slow VLA model for Contact-Rich Robotic Manipulation*  
   [![arXiv](https://img.shields.io/badge/arXiv-2602.23648-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2602.23648)
@@ -418,10 +418,10 @@ This section covers VLA methods that add one extra input channel to address scen
   [![arXiv](https://img.shields.io/badge/arXiv-2601.14628-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2601.14628)
 
 - **TA-VLA** - *TA-VLA: Elucidating the Design Space of Torque-aware Vision-Language-Action Models*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2509.07962-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2509.07962) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://zzongzheng0918.github.io/Torque-Aware-VLA.github.io/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2509.07962-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2509.07962) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://zzongzheng0918.github.io/Torque-Aware-VLA.github.io/)
 
 - **ForceVLA** - *ForceVLA: Enhancing VLA Models with a Force-aware MoE for Contact-rich Manipulation*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2505.22159-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2505.22159) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://sites.google.com/view/forcevla2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-2505.22159-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2505.22159) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://sites.google.com/view/forcevla2025)
 
 
 ### Audio Modality
@@ -438,7 +438,7 @@ This section covers VLA methods that add one extra input channel to address scen
   [![arXiv](https://img.shields.io/badge/arXiv-2510.23763-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2510.23763)
 
 - **VITA-E** - *VITA-E: Natural Embodied Interaction with Concurrent Seeing, Hearing, Speaking, and Acting*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2510.21817-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2510.21817) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://lxysl.github.io/VITA-E/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2510.21817-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2510.21817) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://lxysl.github.io/VITA-E/)
 
 - **ELLSA** - *End-to-end Listen, Look, Speak and Act*  
   [![arXiv](https://img.shields.io/badge/arXiv-2510.16756-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2510.16756)
@@ -453,7 +453,7 @@ This section covers VLA methods that add one extra input channel to address scen
   [![ScienceDirect](https://img.shields.io/badge/ScienceDirect-S003132032501578X-f26b21.svg)](https://www.sciencedirect.com/science/article/abs/pii/S003132032501578X)
 
 - **RoboNurse-VLA** - *RoboNurse-VLA: Robotic Scrub Nurse System based on Vision-Language-Action Model*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2409.19590-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2409.19590) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://robonurse-vla.github.io)
+  [![arXiv](https://img.shields.io/badge/arXiv-2409.19590-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2409.19590) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://robonurse-vla.github.io)
 
 
 ### Gaze Modality
@@ -461,16 +461,16 @@ This section covers VLA methods that add one extra input channel to address scen
 > Gaze-conditioned VLAs use human attention as an intent cue, helping robots infer targets, preferences, or interaction focus in human-centered manipulation.
 
 - **Gaze2Act** - *Gaze2Act: Gaze-Conditioned Vision-Language-Action Policies for Interactive Robot Manipulation*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2605.30282-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2605.30282) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://zuo-kuangji.github.io/Gaze2Act/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2605.30282-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2605.30282) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://zuo-kuangji.github.io/Gaze2Act/)
 
 - **GazeVLA** - *GazeVLA: Learning Human Intention for Robotic Manipulation*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2604.22615-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2604.22615) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://gazevla.github.io)
+  [![arXiv](https://img.shields.io/badge/arXiv-2604.22615-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2604.22615) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://gazevla.github.io)
 
 - **Gaze-Regularized VLA** - *Gaze-Regularized Vision-Language-Action Models for Robotic Manipulation*  
   [![arXiv](https://img.shields.io/badge/arXiv-2603.23202-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2603.23202)
 
 - **DAA** - *Multi-task real-robot data with gaze attention for dual-arm fine manipulation*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2401.07603-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2401.07603) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://sites.google.com/view/multi-task-fine)
+  [![arXiv](https://img.shields.io/badge/arXiv-2401.07603-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2401.07603) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://sites.google.com/view/multi-task-fine)
 
 
 ### Other Emerging Modalities
@@ -478,10 +478,10 @@ This section covers VLA methods that add one extra input channel to address scen
 > This section collects newer input channels such as gesture, thermal, event, and other specialized signals that expand VLA perception beyond standard vision-language inputs.
 
 - **GIVE** - *GIVE: Grounding Human Gestures in Vision-Language-Action Models*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2606.13435-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2606.13435) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://luis-cloud-sg.github.io/GIVE-project/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2606.13435-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2606.13435) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://luis-cloud-sg.github.io/GIVE-project/)
 
 - **GesVLA** - *GesVLA: Gesture-Aware Vision-Language-Action Model Embedded Representations*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2605.22812-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2605.22812) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://gwxuan.github.io/GesVLA/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2605.22812-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2605.22812) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://gwxuan.github.io/GesVLA/)
 
 - **E-VLA** - *E-VLA: Event-Augmented Vision-Language-Action Model for Dark and Blurred Scenes*  
   [![arXiv](https://img.shields.io/badge/arXiv-2604.04834-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2604.04834)
@@ -496,7 +496,7 @@ This section covers VLA methods that add one extra input channel to address scen
   [![arXiv](https://img.shields.io/badge/arXiv-2602.22514-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2602.22514)
 
 - **Expert-VLA** - *VLA Model-Expert Collaboration for Bi-directional Manipulation Learning*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2503.04163-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2503.04163) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://aoqunjin.github.io/Expert-VLA/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2503.04163-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2503.04163) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://aoqunjin.github.io/Expert-VLA/)
 
 
 ## VLAs with Multiple Additional Modalities
@@ -523,13 +523,13 @@ This section covers VLA methods that combine multiple additional modalities for 
   [![arXiv](https://img.shields.io/badge/arXiv-2602.10698-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2602.10698)
 
 - **Any3D-VLA** - *Any3D-VLA: Enhancing VLA Robustness via Diverse Point Clouds*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2602.00807-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2602.00807) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://xianzhefan.github.io/Any3D-VLA.github.io)
+  [![arXiv](https://img.shields.io/badge/arXiv-2602.00807-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2602.00807) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://xianzhefan.github.io/Any3D-VLA.github.io)
 
 - **4D-VLA** - *4D-VLA: Spatiotemporal Vision-Language-Action Pretraining with Cross-Scene Calibration*  
   [![arXiv](https://img.shields.io/badge/arXiv-2506.22242-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2506.22242)
 
 - **3D-CAVLA** - *3D CAVLA: Leveraging Depth and 3D Context to Generalize Vision Language Action Models for Unseen Tasks*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2505.05800-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2505.05800) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://3d-cavla.github.io)
+  [![arXiv](https://img.shields.io/badge/arXiv-2505.05800-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2505.05800) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://3d-cavla.github.io)
 
 - **RoboFlamingo-Plus** - *RoboFlamingo-Plus: Fusion of Depth and RGB Perception with Vision-Language Models for Enhanced Robotic Manipulation*  
   [![arXiv](https://img.shields.io/badge/arXiv-2503.19510-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2503.19510)
@@ -543,7 +543,7 @@ This section covers VLA methods that combine multiple additional modalities for 
 > These methods combine local touch and mechanical feedback, allowing VLAs to perceive contact state while regulating interaction force during execution.
 
 - **TORL-VLA** - *TORL-VLA: Tactile Guided Online Reinforcement Learning for Contact-Rich Manipulation*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2606.09337-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2606.09337) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://torl-vla.github.io/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2606.09337-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2606.09337) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://torl-vla.github.io/)
 
 - **Tabero** - *Tabero: Learning Gentle Manipulation with Closed-Loop Force Feedback from Vision, Touch, and Language*  
   [![arXiv](https://img.shields.io/badge/arXiv-2605.27886-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2605.27886)
@@ -552,7 +552,7 @@ This section covers VLA methods that combine multiple additional modalities for 
   [![arXiv](https://img.shields.io/badge/arXiv-2603.15257-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2603.15257)
 
 - **MoDE-VLA** - *Towards Human-Like Manipulation through RL-Augmented Teleoperation and Mixture-of-Dexterous-Experts VLA*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2603.08122-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2603.08122) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://sites.google.com/view/mode-vla)
+  [![arXiv](https://img.shields.io/badge/arXiv-2603.08122-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2603.08122) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://sites.google.com/view/mode-vla)
 
 - **TaF-VLA** - *TaF-VLA: Tactile-Force Alignment in Vision-Language-Action Models for Force-aware Manipulation*  
   [![arXiv](https://img.shields.io/badge/arXiv-2601.20321-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2601.20321)
@@ -572,7 +572,7 @@ This section covers VLA methods that combine multiple additional modalities for 
   [![arXiv](https://img.shields.io/badge/arXiv-2511.01210-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2511.01210)
 
 - **MLA** - *MLA: A Multisensory Language-Action Model for Multimodal Understanding and Forecasting in Robotic Manipulation*  
-  [![arXiv](https://img.shields.io/badge/arXiv-2509.26642-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2509.26642) [![Project](https://img.shields.io/badge/%F0%9F%8C%90%20Project-page-blue.svg)](https://robotic-mla.github.io/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2509.26642-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2509.26642) [![Project](https://img.shields.io/badge/Project-page-blue.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjYuMiIvPjxwYXRoIGQ9Ik0xLjggOGgxMi40Ii8%2BPHBhdGggZD0iTTggMS44YzEuOCAxLjY1IDIuNzUgMy44IDIuNzUgNi4yUzkuOCAxMi41NSA4IDE0LjIiLz48cGF0aCBkPSJNOCAxLjhDNi4yIDMuNDUgNS4yNSA1LjYgNS4yNSA4UzYuMiAxMi41NSA4IDE0LjIiLz48L3N2Zz4%3D&logoWidth=14)](https://robotic-mla.github.io/)
 
 - **Zhang et al.** - *A Unified Perception-Language-Action Framework for Adaptive Autonomous Driving*  
   [![arXiv](https://img.shields.io/badge/arXiv-2507.23540-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2507.23540)
